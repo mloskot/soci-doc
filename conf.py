@@ -80,6 +80,10 @@ exclude_patterns = ['_build']
 # output. They are ignored by default.
 #show_authors = False
 
+# The default language to highlight source code in.
+highlight_language = 'cpp'
+
+
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
 
@@ -103,7 +107,7 @@ html_theme = 'default'
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-#html_title = None
+html_title = 'http://soci.sourceforge.net'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
@@ -133,9 +137,8 @@ html_static_path = ['_static']
 # Custom sidebar templates, maps document names to template names.
 #html_sidebars = {}
 html_sidebars = {
-    '**': ['globaltoc.html', 'sourcelink.html', 'searchbox.html'],
-"index":["sidebar.html",'searchbox.html'],
-"docs":['globaltoc.html',"indexsidebar.html",'searchbox.html']}
+    "**":['sidebar_toc.html', 'searchbox.html', 'sidebar_twitter.html'],
+    }
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
