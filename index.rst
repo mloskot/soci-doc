@@ -6,15 +6,20 @@
 Welcome to SOCI's documentation!
 ================================
 
-Contents:
-
 .. toctree::
    :maxdepth: 2
+
+   news 
+   features
+   download
+   tutorial
+   documentation
+   articles
+   people
+   links
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
