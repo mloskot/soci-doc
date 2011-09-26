@@ -14,9 +14,19 @@ Welcome to SOCI's documentation!
    download
    tutorial
    documentation
-   articles
+   faq
    people
+   support
+   articles
    links
+   :hidden:
+   copyright
+
+License
+------------------------------------------------------------------------------
+
+The SOCI library is distributed under the terms of the Boost Software License.
+See :ref:`License` for a copy.
 
 Indices and tables
 ==================
