@@ -80,7 +80,7 @@ Indices and tables
    :maxdepth: 2
    :hidden:
 
-   news 
+   news
    features
    download
    tutorial
@@ -91,4 +91,3 @@ Indices and tables
    articles
    links
    copyright
-

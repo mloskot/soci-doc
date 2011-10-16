@@ -19,14 +19,16 @@ Anonymous clone of this repository can be obtained with:
 Current Release
 ------------------------------------------------------------------------------
 
-* **2018-07-10**
+* **2011-10-11**
 
-  - `SOCI 3.0.0 <https://sourceforge.net/projects/soci/files/soci/soci-3.0.0/>`__
-
+  - `SOCI 3.1.0 <https://sourceforge.net/projects/soci/files/soci/soci-3.1.0/>`__
+  
 Previous Releases
 ------------------------------------------------------------------------------
+  
+* **2008-07-10**
 
-*TODO*
+  - `SOCI 3.0.0 <https://sourceforge.net/projects/soci/files/soci/soci-3.0.0/>`__
 
 
 .. _`Git repository`: http://soci.git.sourceforge.net/git/gitweb.cgi?p=soci/soci
